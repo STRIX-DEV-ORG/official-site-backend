@@ -4,25 +4,21 @@
   "info": {
     "singularName": "about",
     "pluralName": "abouts",
-    "displayName": "About",
-    "description": ""
+    "displayName": "About"
   },
   "options": {
     "draftAndPublish": true
   },
   "pluginOptions": {},
   "attributes": {
-    "Mission": {
-      "type": "richtext",
-      "default": "The mission of STRIXDEV"
+    "us": {
+      "type": "richtext"
     },
-    "Vision": {
-      "type": "richtext",
-      "default": "The vision of STRIXDEV"
+    "mission": {
+      "type": "richtext"
     },
-    "about": {
-      "type": "richtext",
-      "default": "The main text"
+    "vision": {
+      "type": "richtext"
     }
   }
 }
